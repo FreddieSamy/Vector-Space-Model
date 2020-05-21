@@ -1,0 +1,5 @@
+computer science is the theory, experimentation, 
+and engineering that form the basis for the design 
+and use of computers. it involves the study of algorithms 
+that process, store, and communicate digital information. 
+a computer scientist specializes in the theory of computation and the design of computational systems.

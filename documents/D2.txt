@@ -1,0 +1,12 @@
+video game development is the process of creating a video game. 
+the effort is undertaken by a game developer,
+who may range from a single person to an international team dispersed across the globe. 
+Traditional commercial PC and console games are normally funded by a publisher, 
+and can take several years to reach completion. Indie games can take less time and can be produced at a lower cost by individuals and smaller developers. 
+The independent game industry has seen a substantial rise in recent years with the growth of new online distribution systems, such as Steam and Uplay, as well as the mobile game market, such as for Android and iOS devices.
+The first video games were non-commercial, and were developed in the 1960s. They required mainframe computers to run and were not available to the general public. 
+Commercial game development began in the 1970s with the advent of first-generation video game consoles and early home computers like the Apple I. 
+Due to low costs and low capabilities of computers, a lone programmer could develop a full game. However, approaching the 21st century, ever-increasing computer processing power and heightened consumer expectations made it difficult for a single person to produce a mainstream console or PC game. 
+The average cost of producing a triple-A video game slowly rose from US$1–4 million in 2000 to over $5 million in 2006, then to over $20 million by 2010.
+Mainstream PC and console games are generally developed in phases. First, in pre-production, pitches, prototypes, and game design documents are written. 
+If the idea is approved and the developer receives funding, a full-scale development begins. This usually involves a team of 20–100 individuals with various responsibilities, including designers, artists, programmers, and testers.
